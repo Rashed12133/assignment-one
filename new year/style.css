@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header-caption {
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+
+}
+
+.banner {
+    text-align: right;
+    padding-top: 216px;
+    padding-right: 230px;
+    padding-left: 845px;
+
+}
+
+.caption-content {
+    margin-top: 30px;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.btn-primary {
+    margin-top: 25px;
+    font-size: 20px;
+    padding: 10px;
+    width: 200px;
+    border: none;
+    color: #005FAC;
+}
+
+/* body part */
+.ul-list {
+    list-style: none;
+}
+
+.maiyya {
+    display: flex;
+    gap: 150px;
+    width: 1072px;
+    height: 723.3px;
+    margin-left: 280px;
+    margin-top: 939px;
+    margin-bottom: 100px;
+
+}
+
+.maiyya-content {
+    margin-top: 250px;
+    text-align: left;
+
+}
+
+.maiyya-caption {
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.caption-details {
+    margin-bottom: 20px;
+}
+
+/* my plan */
+.my-plan {
+    margin-top: 1792;
+    margin-bottom: 60px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+.plans-are{
+    display: flex;
+    margin-left: 410px;
+    gap: 200px;
+    text-align: center;
+    margin-bottom: 150px;
+}
+.logo-meaning{
+margin-bottom: 20px;
+}
+.to-do{
+margin-bottom: 20px;
+}
+.icons{
+ margin-bottom: 20px;
+}
+/* double photo + button */
+ 
+ .dual{
+    margin-left: 335px;
+    margin-right: 335px;
+    margin-bottom: 130px;
+     position: relative;
+     text-align: left;
+     border-radius: 10%;
+ }
+ .bottom-left {
+    position: absolute;
+    bottom: 70px;
+    left: 100px;
+  }
+  .triple{
+    font-weight: 700;
+   font-size: 40px;
+   color: #FFFFFF;
+  }
+    
+ 
+.shadow{
+     background-image: url(../images/watch.png);
+    
+}
+ 
+
+ 
